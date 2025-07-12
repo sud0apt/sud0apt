@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name] — Welcome to my GitHub profile!
+# 👋 Ciao! I'm Stanley Mah — Welcome to my GitHub profile!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Code.+Create.+Repeat.)](https://git.io/typing-svg)
 
