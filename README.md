@@ -6,6 +6,11 @@
   </a>
   </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7931E&width=435&lines=👨‍💻+Welcome+to+My+Terminal;🚀+Building+Futures+With+Code;🌌+Explore+My+Repos!" />
+</p>
+
+
 ## 🚀 About Me
 - 🎯 I’m a passionate developer who loves turning ideas into code.
 - 💻 Currently working on: **[Your Current Project or Stack]**
