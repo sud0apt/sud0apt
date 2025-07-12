@@ -12,12 +12,32 @@
 - 🎓 Learning: **Ruby** cuz I heard its speedy.
 - 🧩 Fun Fact: Learning jap as moving to 🇯🇵 has been a lifelong dream of mine.
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+## 🧠 Tech Stack Tier List
+
+### 🟩 S Tier  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+
+---
+
+### 🟦 A Tier  
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
+---
+
+### 🟨 B Tier  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+
+---
+
+### 🟥 C Tier  
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)  
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+
 
 ## 📈 GitHub Stats
 <p align="center">
