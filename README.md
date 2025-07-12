@@ -6,16 +6,11 @@
   </a>
   </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7931E&width=435&lines=👨‍💻+Welcome+to+My+Terminal;🚀+Building+Futures+With+Code;🌌+Explore+My+Repos!" />
-</p>
-
-
-## 🚀 About Me
-- 🎯 I’m a passionate developer who loves turning ideas into code.
-- 💻 Currently working on: **[Your Current Project or Stack]**
-- 🌱 Learning: **[Tech you're exploring, e.g., Rust, AI, Web3]**
-- 🧩 Fun Fact: I can debug better after ☕️ and 🎵!
+## About Stanley 😏
+- 🎉 I'm a fresh grad working in the tech side of the banking industry.
+- 👩🏻‍💻 Currently personally working on: **AI agents in LOS (loan origination system)**
+- 🎓 Learning: **Ruby** cuz I heard its speedy.
+- 🧩 Fun Fact: Learning jap as moving to 🇯🇵 has been a lifelong dream of mine.
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
