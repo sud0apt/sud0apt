@@ -51,6 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sud0apt&repo=RAG-auto-email-reply&theme=tokyonight"/>
 </a>
 
+<br>
   
   <a href="https://github.com/YOUR_USERNAME/PROJECT_2" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight" />
@@ -58,12 +59,6 @@
 </p>
 
 <br>
-
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stanley-mah-yuet-xuan/)
