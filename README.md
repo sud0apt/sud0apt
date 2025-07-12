@@ -12,7 +12,7 @@
 - 🎉 I'm a fresh grad working in the tech side of the banking industry.
 - 👩🏻‍💻 Currently personally working on: **AI agents in LOS (loan origination system)**
 - 🎓 Learning: **Ruby** cuz I heard its speedy.
-- 🧩 Fun Fact: Learning jap as moving to 🇯🇵 has been a lifelong dream of mine.
+- ⭐️ Fun Fact: Learning jap as moving to 🇯🇵 has been a lifelong dream of mine.
 
 ## 🧠 Tech Stack Tier List
 
@@ -33,10 +33,5 @@
 </p>
 
 ## 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox-browser)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/YOUR_HANDLE)
-
----
-
-⭐️ Fun fact: This README is interactive — I update it as I grow!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stanley-mah-yuet-xuan/)
+[![Instagram](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=instagram)](https://www.instagram.com/stanley_maaaaaa?igsh=amd5azlpZG42OWt6)
