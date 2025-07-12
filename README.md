@@ -44,24 +44,6 @@
 
 <br>
 
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/sud0apt/RAG-auto-email-reply" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sud0apt&repo=RAG-auto-email-reply&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sud0apt/mnist-digit-generator" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sud0apt&repo=mnist-digit-generator&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stanley-mah-yuet-xuan/)
