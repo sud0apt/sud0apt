@@ -1,6 +1,10 @@
 # 👋 Ciao! I'm Stanley Mah — Welcome to my GitHub profile!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&width=600&lines=Software+Engineer.+Entrepreneur.+Monash+Graduate.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&width=600&lines=Software+Engineer.+Entrepreneur.+Monash+Graduate." alt="Typing SVG" />
+  </a>
+  /p>
 
 ## 🚀 About Me
 - 🎯 I’m a passionate developer who loves turning ideas into code.
