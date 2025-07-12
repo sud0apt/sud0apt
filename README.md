@@ -14,15 +14,33 @@
 - 🎓 Learning: **Ruby** cuz I heard its speedy.
 - ⭐️ Fun Fact: Learning jap as moving to 🇯🇵 has been a lifelong dream of mine.
 
-## 🧠 Tech Stack Tier List
+<h2>🧠 Tech Stack Tier List</h2>
 
-### 🟩 S Tier - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
----
-### 🟦 A Tier - ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
----
-### 🟨 B Tier - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
----
-### 🟥 C Tier - ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)  ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+<h3>🟩 S Tier</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
+</p>
+
+<h3>🟦 A Tier</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+</p>
+
+<h3>🟨 B Tier</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+</p>
+
+<h3>🟥 C Tier</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/>
+</p>
 
 <br>
 
