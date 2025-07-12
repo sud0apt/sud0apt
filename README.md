@@ -18,22 +18,15 @@
 
 ---
 
-### 🟦 A Tier  
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+### 🟦 A Tier - ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 ---
 
-### 🟨 B Tier  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+### 🟨 B Tier - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 
 ---
 
-### 🟥 C Tier  
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)  
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+### 🟥 C Tier - ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)  ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
 
 ## 📈 GitHub Stats
