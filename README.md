@@ -14,10 +14,7 @@
 
 ## 🧠 Tech Stack Tier List
 
-### 🟩 S Tier  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+### 🟩 S Tier - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 
 ---
 
