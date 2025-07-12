@@ -1,4 +1,4 @@
-# 👋 Ciao! I'm Stanley Mah — Welcome to my GitHub profile!
+<h1 align="center">👋 Ciao! I'm Stanley Mah — Welcome to my GitHub profile!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
