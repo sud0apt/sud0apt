@@ -26,6 +26,19 @@
 
 <br>
 
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/PROJECT_1" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/PROJECT_2" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight" />
+  </a>
+</p>
+
+<br>
+
 ## 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -34,4 +47,5 @@
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stanley-mah-yuet-xuan/)
-[![Instagram](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=instagram)](https://www.instagram.com/stanley_maaaaaa?igsh=amd5azlpZG42OWt6)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/stanley_maaaaaa?igsh=amd5azlpZG42OWt6)
+
