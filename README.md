@@ -47,9 +47,11 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_1" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight" />
-  </a>
+  <a href="https://github.com/sud0apt/RAG-auto-email-reply" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sud0apt&repo=RAG-auto-email-reply&theme=tokyonight"/>
+</a>
+
+  
   <a href="https://github.com/YOUR_USERNAME/PROJECT_2" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight" />
   </a>
