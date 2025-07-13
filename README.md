@@ -44,6 +44,20 @@
 
 <br>
 
+## 🚀 My Startup — [AniLabs](https://anilabs.net)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Anime%20Ecommerce-DD3E54?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+- 🌸 I'm the founder of **[AniLabs](https://anilabs.net)** — *the world's first indie anime-focused e-commerce platform*.
+- 🛒 Our mission is to **support local and indie anime creators** by giving them a space to reach a global audience.
+- 🤝 We've already **collaborated with 3 vendors** who have a combined following of **over 14,000 followers on Instagram**.
+- 📦 Currently expanding our product range, platform features, and creator partnerships.
+- 📈 Whether you're a fan or a creator, we're building something truly special — come join us!
+
+> 🎯 *"Bringing niche anime dreams to life, one cart at a time."*
+
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stanley-mah-yuet-xuan/)
