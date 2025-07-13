@@ -47,7 +47,11 @@
 ## 🚀 My Startup — [AniLabs](https://anilabs.net)
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQFSpuT-QY-ZAw/company-logo_100_100/B56ZT_2XA_GoAY-/0/1739459228191/anilabs_logo?e=1755129600&v=beta&t=ilHSiI1uwHfMR8eYX0kPGMmDhsoGRZ4uC73C0pSCtbU" alt="AniLabs Logo" width="100" height="100"/>
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQFSpuT-QY-ZAw/company-logo_100_100/B56ZT_2XA_GoAY-/0/1739459228191/anilabs_logo?e=1755129600&v=beta&t=ilHSiI1uwHfMR8eYX0kPGMmDhsoGRZ4uC73C0pSCtbU"
+       alt="AniLabs Logo"
+       width="120"
+       height="120"
+       style="border-radius: 50%; box-shadow: 0 0 10px rgba(221, 62, 84, 0.6);" />
 </p>
 
 - 🌸 I'm the founder of **[AniLabs](https://anilabs.net)** — *the world's first indie anime-focused e-commerce platform*.
@@ -56,7 +60,7 @@
 - 📦 Currently expanding our product range, platform features, and creator partnerships.
 - 📈 Whether you're a fan or a creator, we're building something truly special — come join us!
 
-> 🎯 *"Bringing niche anime dreams to life, one cart at a time."*
+> 🎯 *Currently inactive but I'm still keen to persue it (looking for co-founders)*
 
 
 ## 🔗 Let's Connect!
