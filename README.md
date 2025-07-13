@@ -47,7 +47,7 @@
 ## 🚀 My Startup — [AniLabs](https://anilabs.net)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Anime%20Ecommerce-DD3E54?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="[https://img.shields.io/badge/-Anime%20Ecommerce-DD3E54?style=flat-square&logo=vercel&logoColor=white](https://media.licdn.com/dms/image/v2/D560BAQFSpuT-QY-ZAw/company-logo_100_100/B56ZT_2XA_GoAY-/0/1739459228191/anilabs_logo?e=1755129600&v=beta&t=ilHSiI1uwHfMR8eYX0kPGMmDhsoGRZ4uC73C0pSCtbU)" />
 </p>
 
 - 🌸 I'm the founder of **[AniLabs](https://anilabs.net)** — *the world's first indie anime-focused e-commerce platform*.
