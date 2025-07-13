@@ -52,7 +52,7 @@
        width="120"
        height="120"
        style="border-radius: 50%; box-shadow: 0 0 10px rgba(221, 62, 84, 0.6);" />
-</p>
+<br>
 
 - 🌸 I'm the founder of **[AniLabs](https://anilabs.net)** — *the world's first indie anime-focused e-commerce platform*.
 - 🛒 Our mission is to **support local and indie anime creators** by giving them a space to reach a global audience.
@@ -62,6 +62,7 @@
 
 > 🎯 *Currently inactive but I'm still keen to persue it (looking for co-founders)*
 
+</p>
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stanley-mah-yuet-xuan/)
