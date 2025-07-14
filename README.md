@@ -62,7 +62,15 @@
 
 > 🎯 *Currently inactive but I'm still keen to persue it (looking for co-founders)*
 
-</p>
+<br>
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=StanleyMah&color=00F7FF&style=plastic)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StanleyMah&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+<br>
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stanley-mah-yuet-xuan/)
