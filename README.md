@@ -60,7 +60,7 @@
 - 📦 Currently expanding our product range, platform features, and creator partnerships.
 - 📈 Whether you're a fan or a creator, we're building something truly special — come join us!
 
-> 🎯 *Currently inactive but I'm still keen to persue it (looking for co-founders)*
+> 🎯 *Currently inactive but I'm still keen to pursue it (looking for co-founders)*
 
 <br>
 
